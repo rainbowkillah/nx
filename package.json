@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "nx": "^21.2.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
